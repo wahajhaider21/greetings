@@ -4,7 +4,7 @@ package main
 import (
 "crypto/sha256"
 "fmt"
-"assignment01IBC"
+"github.com/wahajhaider21/assignment01IBC"
 )
 
 
