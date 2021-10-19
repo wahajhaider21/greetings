@@ -1,3 +1,3 @@
-module githubcom/ehteshamz/greetings
+module github.com/wahajhaider21/greetings
 
 go 1.17
